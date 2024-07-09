@@ -1,0 +1,216 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    height: auto;
+    width: 100%;
+   
+}
+.body1{
+   display: flex; 
+   background-color: white;
+   margin-top: 100px;
+}
+.side1{
+margin-top: 80px;
+padding-left: 200px;
+margin-left: 100px;
+}
+.side2 img{
+ height: 400px;
+ width: 400px;
+ border-bottom-right-radius: 50px;
+ border-bottom-left-radius: 50px;
+ margin-left: 300px;
+ margin-top: -50px;
+
+}
+.body2{
+    margin-top: 100px;
+}
+.heading p{
+font-size: 16px;
+font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.heading h2{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.matter{
+background-color: whitesmoke;
+display: flex;
+padding: 80px;
+font-size: 16px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.mat2{
+    margin-left:30px ;
+  
+}
+.mat1{
+    margin-left: -30px;
+   
+}
+.image1 img{
+    height: 500px;
+    width: 85%;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.picture1{
+    height: 500px;
+    width: 100%;
+    background-color: azure;
+    display: flex;
+   padding: 80px;
+}
+.pic1 img{
+    height: 400px;
+    width: 350px;
+    margin: 20px;
+}
+.pic2 img{
+    height: 400px;
+    width: 350px;
+    margin: 10px;
+    margin-top: 20px;
+}
+.pic3 img{
+    height: 400px;
+    width: 350px;
+    margin: 10px;
+    margin-top: 20px;
+}
+.heading{
+    margin-top: 50px;
+}
+.picture2{
+    height: 500px;
+    width: 100%;
+    background-color: azure;
+    display: flex;
+    margin-top: -80px;
+    padding: 80px;
+}
+.body4{
+    
+    height: 600px;
+    width: 100%;
+    
+}
+.boxes1{
+    display: flex;
+    background-color: white;
+    padding: 15px;
+    margin-top: 100px;
+}
+.box1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 2px;
+    margin-left: 30px;
+}
+.box2{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 2px;
+}
+.box3{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 2px;
+}
+.box4{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 2px;
+}
+.boxes2{
+    display: flex;
+    background-color: white;
+    padding: 15px;
+    margin-top: -30px;
+}
+.box1 img{
+    padding: 20px;
+}
+.box2 img{
+    padding: 25px;
+}
+.box3 img{
+    padding: 30px;
+}
+.box4 img{
+    padding: 30px;
+}
+.box11{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 2px;
+    margin-left: 30px;
+}
+.box22{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 2px;
+}
+.box33{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 2px;
+}
+.box44{
+    height: 300px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 2px;
+}
+
+.box11 img{
+    padding: 30px;
+    height: 220px;
+    width: 220px;
+}
+.box22 img{
+    padding: 25px;
+}
+.box33 img{
+    padding: 30px;
+    height: 250px;
+    width: 250px;
+}
+.box44 img{
+    padding: 30px;
+}
+.main2{
+    display: flex;
+    margin-top: 100px;
+    padding: 50px;
+}
+.photo img{
+    height:400px;
+    width:400px;
+   margin-left: 150px;
+  border-radius: 200px;
+}
+button{
+    margin-top: 40px;
+    height: 60px;
+    width: 150px;
+}
+.body6{
+    background-image: url(../images/strip\ background.svg);
+}
